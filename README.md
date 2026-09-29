@@ -8,6 +8,12 @@ The file does **not** need to pass through your computer.
 
 > Paste link → Server downloads → File is saved on your hosting account
 
+## 📸 Screenshots
+
+### Main interface
+
+![Server Fetch](A.png)
+
 ## ✨ Features
 
 - 📥 Download Mega.nz files directly to your server
